@@ -1,7 +1,7 @@
 > This is a step-by-step demonstration version. The GitHub repository can be found here: https://github.com/caltechmsc/dreid-pack
 
 1. Download the pre-compiled binaries, or manually compile the source code: https://github.com/caltechmsc/dreid-pack/releases/tag/v0.1.0
-2. Recommended (Optional): Download structure visualization software: https://www.pymol.org/
+2. Recommended (Optional): Download structure visualization software: https://www.pymol.org/ (A license is required; free for high school students: https://pymol.org/edu/)
 3. Download the proteins you wish to process (I have prepared 379 high-resolution crystal structures): https://github.com/caltechmsc/dreid-pack-guide/tree/main/pdbs
 4. The simplest CLI run (whole protein): `dforge full input.pdb output.pdb` (See `-h` for others)
 5. Visualization software (such as PyMOL) can be used to view the differences between input and output files.
